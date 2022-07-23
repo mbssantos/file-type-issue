@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "file-type": "^14.4.0"
+    "file-type": "^16.5.4"
   }
 }
